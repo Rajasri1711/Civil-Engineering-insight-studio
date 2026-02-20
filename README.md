@@ -116,7 +116,7 @@ This project combines:
 ## 📦 Installation Guide  
 
 ```bash
-git clone https://github.com/your-username/Civil-Engineering-Insight-Studio.git
+git clone https://github.com/Rajasri1711/Civil-Engineering-insight-studio
 cd Civil-Engineering-Insight-Studio
 pip install -r requirements.txt
 python app.py
